@@ -1,2 +1,3 @@
 # Amazon ECS PHP Simple Demo App
-Directions on how to launch this sample app on Amazon ECS can be found in the documentation: [Docker basics](http://docs.aws.amazon.com/AmazonECS/latest/developerguide/docker-basics.html).
+
+Forked from https://github.com/awslabs/ecs-demo-php-simple-app for use as a sample app to deploy to ECS
